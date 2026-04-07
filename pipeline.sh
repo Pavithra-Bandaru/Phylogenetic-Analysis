@@ -1,6 +1,4 @@
-#!/bin/bash
 
-# Define filenames
 INPUT="cdc42_fungi_raw.fasta"
 ALIGNED="cdc42_fungi_aligned.fasta"
 TRIMMED="cdc42_fungi_trimmed.fasta"
