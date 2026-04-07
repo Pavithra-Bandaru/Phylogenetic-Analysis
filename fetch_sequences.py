@@ -1,11 +1,11 @@
 import os
 from Bio import Entrez, SeqIO
 
-# --- Configuration ---
+#  Configuration 
 # Enter your email address so NCBI can contact you if there's a problem
 Entrez.email = "your_email@example.com"
 
-# List of target fungal species (model organisms + others for diversity)
+# List target fungal species (model organisms + others for diversity)
 species_list = [
     "Saccharomyces cerevisiae",
     "Schizosaccharomyces pombe",
