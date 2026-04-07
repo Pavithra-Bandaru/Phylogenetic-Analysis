@@ -20,7 +20,7 @@ The analysis follows a rigorous 4-step computational pipeline:
 3.  **Alignment Quality Control:** Trimming of gaps and non-informative sites using **trimAl** to enhance phylogenetic signal.
 4.  **Phylogenetic Reconstruction:** Building a Maximum Likelihood tree using **IQ-TREE** with automated model selection (**ModelFinder**) and **Ultrafast Bootstrapping** (1000 replicates).
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 | Tool | Purpose |
 | :--- | :--- |
 | **Python** | Scripting & Data Retrieval (Biopython) |
