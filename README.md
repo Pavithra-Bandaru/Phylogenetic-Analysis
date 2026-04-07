@@ -1,10 +1,6 @@
 # Phylogenetic Analysis of Cdc42 in Fungi
 **Exploring the Evolutionary Conservation of Cell Polarity Regulators**
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Bioinformatics](https://img.shields.io/badge/Field-Bioinformatics-green.svg)](https://en.wikipedia.org/wiki/Bioinformatics)
-[![Lab](https://img.shields.io/badge/Target-IISc%20Palani%20Lab-red.svg)](https://palani-lab.github.io/)
-
 ---
 
 ##  Project Overview
