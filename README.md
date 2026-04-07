@@ -1,4 +1,4 @@
-# 🧬 Phylogenetic Analysis of Cdc42 in Fungi
+# Phylogenetic Analysis of Cdc42 in Fungi
 **Exploring the Evolutionary Conservation of Cell Polarity Regulators**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -7,12 +7,12 @@
 
 ---
 
-## 🔬 Project Overview
+##  Project Overview
 This project investigates the evolutionary history of **Cdc42**, a critical Rho-family GTPase that governs cell polarity and cytoskeleton organization. By performing a comparative phylogenetic analysis across diverse fungal species, we identify highly conserved functional domains essential for cell division.
 
 This repository demonstrates a complete bioinformatics pipeline—from automated sequence retrieval to Maximum Likelihood tree reconstruction.
 
-## 🚀 Research Workflow
+##  Research Workflow
 The analysis follows a rigorous 4-step computational pipeline:
 
 1.  **Data Acquisition:** Automated retrieval of protein sequences from **NCBI Protein DB** using `Biopython`.
@@ -30,7 +30,7 @@ The analysis follows a rigorous 4-step computational pipeline:
 | **IQ-TREE** | Maximum Likelihood Phylogeny |
 | **iTOL** | Tree Visualization & Annotation |
 
-## 📂 Repository Structure
+##  Repository Structure
 ```text
 ├── fetch_sequences.py   # Python script for NCBI data mining
 ├── pipeline.sh          # Master bash script to run the bio-tools
@@ -38,7 +38,7 @@ The analysis follows a rigorous 4-step computational pipeline:
 └── [Output Files]       # Alignment and Tree files (generated after run)
 ```
 
-## 🏗️ How to Reproduce
+##  How to Reproduce
 ### 1. Prerequisites
 Ensure you have the following installed:
 *   Python 3.x (`pip install biopython`)
@@ -57,7 +57,7 @@ python fetch_sequences.py
 bash pipeline.sh
 ```
 
-## 📊 Expected Insights
+##  Expected Insights
 The resulting phylogenetic tree (`.treefile`) reveals the divergence of Cdc42 across:
 *   **Ascomycota** (e.g., *S. cerevisiae*, *N. crassa*)
 *   **Basidiomycota** (e.g., *C. neoformans*, *P. graminis*)
