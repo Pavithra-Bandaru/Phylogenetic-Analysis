@@ -1,5 +1,5 @@
 # Phylogenetic Analysis of Cdc42 in Fungi
-<<<<<<< HEAD
+ 
 
 ## Project Overview
 
@@ -8,33 +8,33 @@ This project investigates the evolutionary conservation of Cdc42, a Rho-family G
 ---
 
 ## Methodology
-=======
+
 **Exploring the Evolutionary Conservation of Cell Polarity Regulators**
 
----
+
 
 ##  Project Overview
 This project investigates the evolutionary history of **Cdc42**, a critical Rho-family GTPase that governs cell polarity and cytoskeleton organization. By performing a comparative phylogenetic analysis across diverse fungal species, we identify highly conserved functional domains essential for cell division.
->>>>>>> 9b5c70f0777eefd0a680240d1790b16326bd1770
+
 
 ### Data Collection
 
-<<<<<<< HEAD
+
 Initial sequence retrieval was attempted using Biopython. Due to inconsistencies in automated queries, sequences were manually curated from NCBI to ensure that only true Cdc42 proteins were included.
-=======
+
 ##  Research Workflow
 The analysis follows a rigorous 4-step computational pipeline:
->>>>>>> 9b5c70f0777eefd0a680240d1790b16326bd1770
+
 
 ### Multiple Sequence Alignment
 
-<<<<<<< HEAD
+
 Protein sequences were aligned using the MAFFT online tool to identify conserved regions across species.
 
 ### Phylogenetic Analysis (Tool-based)
 
 A phylogenetic tree was constructed using Phylogeny.fr based on the aligned sequences.
-=======
+
 ##  Tech Stack & Tools
 | Tool | Purpose |
 | :--- | :--- |
@@ -58,11 +58,10 @@ A phylogenetic tree was constructed using Phylogeny.fr based on the aligned sequ
 Ensure you have the following installed:
 *   Python 3.x (`pip install biopython`)
 *   Conda (`conda install -c bioconda mafft trimal iqtree`)
->>>>>>> 9b5c70f0777eefd0a680240d1790b16326bd1770
 
 ### Phylogenetic Analysis (Python-based)
 
-<<<<<<< HEAD
+
 A second phylogenetic tree was generated using Python (Biopython) by calculating sequence distances and constructing a Neighbor Joining tree.
 =======
 # 1. Fetch sequences from NCBI
