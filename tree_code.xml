@@ -1,0 +1,44 @@
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
+  <phylogeny rooted="false">
+    <clade>
+      <name>Inner4</name>
+      <branch_length>0</branch_length>
+      <clade>
+        <name>Inner2</name>
+        <branch_length>0.009885204081632626</branch_length>
+        <clade>
+          <name>CAC08561.1</name>
+          <branch_length>0.06420068027210886</branch_length>
+        </clade>
+        <clade>
+          <name>Inner1</name>
+          <branch_length>0.03273809523809522</branch_length>
+          <clade>
+            <name>QHB10383.1</name>
+            <branch_length>0.05803571428571429</branch_length>
+          </clade>
+          <clade>
+            <name>KAL1581036.1</name>
+            <branch_length>0.06441326530612247</branch_length>
+          </clade>
+        </clade>
+      </clade>
+      <clade>
+        <name>ABJ97448.1</name>
+        <branch_length>0.07940051020408165</branch_length>
+      </clade>
+      <clade>
+        <name>Inner3</name>
+        <branch_length>0.007334183673469413</branch_length>
+        <clade>
+          <name>ACD01427.1</name>
+          <branch_length>0.12786989795918366</branch_length>
+        </clade>
+        <clade>
+          <name>XP_680756.1</name>
+          <branch_length>0.09151785714285712</branch_length>
+        </clade>
+      </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>
